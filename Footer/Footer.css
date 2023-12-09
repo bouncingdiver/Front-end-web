@@ -1,0 +1,32 @@
+.navbar{
+    background-color: lightgreen;
+}
+
+.nav-item{
+    margin: 0px;
+}
+
+.nav-item0{
+    background-color: rgb(80, 234, 80);
+    margin-left: 10px;
+}
+
+.nav-item1{
+    background-color: rgb(62, 167, 62);
+}
+
+.nav-item2{
+    background-color: rgb(91, 238, 91);
+}
+
+.nav-item3{
+    background-color: rgb(108, 219, 108);
+}
+
+.nav-item4{
+    background-color: rgb(62, 180, 62);
+}
+
+.nav-item5{
+    background-color: rgb(92, 203, 92);
+}
